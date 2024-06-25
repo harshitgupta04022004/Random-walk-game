@@ -3,7 +3,7 @@ import turtle as t
 
 num_of_steps = 0
 try:
-    num_of_steps = int(t.textinput("Make Your Bet", "Who will win the race"))
+    num_of_steps = int(t.textinput("Make Your Shap", "Enter the number of Steps of Turtle"))
 except :
     num_of_steps = 0
 
